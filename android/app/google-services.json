@@ -29,6 +29,13 @@
             {
               "client_id": "772242563754-0qntsq3br3un923m8kvgcvh2cgevhp35.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "772242563754-mpththe22iosrl6rh9ugb1n58g8b6dc5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.damU4Practica1"
+              }
             }
           ]
         }
